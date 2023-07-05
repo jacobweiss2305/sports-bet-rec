@@ -1,0 +1,12 @@
+
+The Rockies won 50 games and lost 32 games. They played 82 games. On average they score 4.8 runs per game. The average score of their opponents was 5.3 runs per game. They won 26 games at home and 24 games on the road. The games they won their win probability was 0.455. The games they lost their win probability was 0.347. Their next game is 7/5/2023 against the Houston Astros. Their win probability is 0.327. They will likely score 4 runs.
+
+The Astros won 33 games. They lost 22 games. They played 55 games.
+
+On average they score 5.4 runs per game. The average score of their opponents was 4.4 runs per game.
+
+They won 19 games at home and 14 games on the road.
+
+The games they won their win probability was 0.6. The games they lost their win probability was 0.5.
+
+Their next game is 7/5/2023 against the Colorado Rockies. Their win probability is 0.612. They will likely score 4 runs.

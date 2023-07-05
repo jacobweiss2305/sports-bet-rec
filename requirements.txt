@@ -1,0 +1,7 @@
+langchain
+openai
+tiktoken
+pandas
+python-dotenv
+chromadb
+ipykernel
